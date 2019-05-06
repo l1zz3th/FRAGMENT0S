@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragmentos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragmentA">HOLA, ESTE ES EL FRGAMENTO 1</string>
+    <string name="hello_blank_fragmentB">HOLA, ESTE ES EL FRAGMENTO 2</string>
+    <string name="hello_blank_fragmentC">HOLA, ESTE ES EL FRAGMENTO 3</string>
+</resources>
